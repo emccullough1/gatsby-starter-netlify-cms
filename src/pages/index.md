@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: '''Meh'' coffee with a conscience'
-image: /img/home-jumbotron.jpg
+image: /img/coffee.jpg
 heading: '''Meh'' coffee with a conscience'
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
@@ -61,12 +61,12 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/mocha.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/iced-coffee.webp
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/coffee-beans.jpeg
 ---
 
